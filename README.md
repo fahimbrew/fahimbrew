@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.gif" alt="Fahim Bin Abdul Aziz — pentester pursuing a Master's in Cybersecurity at the University of Dhaka; Bachelor of Information Technology from Torrens University Australia" width="100%" />
+<img src="hero.gif" alt="Fahim Bin Abdul Aziz — pentester pursuing a Master's in Cybersecurity at the University of Dhaka; Bachelor of Information Technology from Torrens University Australia" width="100%" />
 
 <h3>Penetration Testing · Adversary Emulation · Security Monitoring</h3>
 
@@ -30,7 +30,7 @@ My penetration-testing and detection experience is primarily through **authorize
 
 ## Featured cybersecurity lab
 
-<a href="https://github.com/fahimbrew/Adversary-Emulation-Detection-Lab"><img src="assets/lab.svg" alt="Adversary Emulation & Detection Lab" width="100%" /></a>
+<a href="https://github.com/fahimbrew/Adversary-Emulation-Detection-Lab"><img src="lab.svg" alt="Adversary Emulation & Detection Lab" width="100%" /></a>
 
 ### [Adversary Emulation & Detection Lab](https://github.com/fahimbrew/Adversary-Emulation-Detection-Lab)
 
@@ -48,7 +48,7 @@ The repository includes lab notes and detection work, with outcomes and limitati
 
 ## Penetration testing and security skills
 
-<img src="assets/focus.svg" alt="Offensive and defensive security tools and focus areas" width="100%" />
+<img src="focus.svg" alt="Offensive and defensive security tools and focus areas" width="100%" />
 
 **Penetration testing:** Reconnaissance, enumeration and web application testing in controlled environments. Tools I've used include Burp Suite, Nmap, Kali Linux, Metasploit, Acunetix, Dalfox, ReconFTW, Subfinder and Assetfinder. My training covers SQL injection, XSS and file-inclusion vulnerabilities.
 
@@ -79,19 +79,3 @@ Supported users, endpoints, networking, Microsoft 365 and Active Directory, alon
 I'm currently preparing for **CompTIA Security+**. My professional interests include penetration testing, SOC analysis and junior cybersecurity engineering roles.
 
 [LinkedIn](https://www.linkedin.com/in/fahimbinabdulaziz/) · [Email](mailto:iftiaqhossain@gmail.com)
-
-
-<!--
-**fahimbrew/fahimbrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
