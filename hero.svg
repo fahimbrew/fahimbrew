@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Fahim Bin Abdul Aziz — Pentester pursuing a Master’s in Cybersecurity at the University of Dhaka, Bachelor of Information Technology from Torrens University Australia">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101c"/><stop offset=".55" stop-color="#10243a"/><stop offset="1" stop-color="#081424"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#235367"/><stop offset=".45" stop-color="#102f4d"/><stop offset="1" stop-color="#061a30"/></linearGradient>
+<linearGradient id="face" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#164960"/><stop offset=".52" stop-color="#09243d"/><stop offset="1" stop-color="#113344"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fb9177"/><stop offset=".45" stop-color="#78bdf5"/><stop offset="1" stop-color="#3bedc8"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#4ae7d4" stop-opacity=".21"/><stop offset="1" stop-color="#1a9bda" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="matrix(1 .33 -.52 .86 0 0)"><path d="M40 0H0V40" fill="none" stroke="#3c6785" stroke-width=".65" opacity=".37"/></pattern>
+<filter id="soft"><feGaussianBlur stdDeviation="12"/></filter>
+<filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="390" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="388" rx="19" stroke="#28516e" stroke-width="1.4" fill="none"/>
+<g opacity=".8"><rect x="0" y="252" width="1200" height="138" fill="url(#grid)"/><path d="M0 321H1200" stroke="#294b67" stroke-width="1"/></g>
+<circle cx="940" cy="180" r="235" fill="url(#halo)"/>
+<path d="M648 81h104v32h70M622 315h91v-40h62M1060 68h85v51" stroke="#32647c" stroke-width="1.3" fill="none" opacity=".5"/>
+<g fill="#5af5df"><circle cx="752" cy="81" r="3"/><circle cx="713" cy="315" r="3"/><circle cx="1145" cy="119" r="3"/></g>
+<g transform="translate(930 187)">
+<ellipse rx="178" ry="92" stroke="#52a5c8" stroke-width="1.8" stroke-dasharray="12 10" fill="none" opacity=".5"/>
+<ellipse rx="142" ry="142" stroke="#4789b5" stroke-width="1" fill="none" opacity=".3"/>
+<path d="M0 -154L135 -79V77L0 155-135 77V-79Z" fill="#0e2238" stroke="#357b9a" stroke-width="2.8"/>
+<path d="M0 -154L135 -79L0 5-135 -79Z" fill="#214d66" opacity=".75"/>
+<path d="M135 -79V77L0 155V5Z" fill="#0b253c"/>
+<path d="M-135 -79V77L0 155V5Z" fill="#0b3146"/>
+<path d="M0 -154L135 -79V77L0 155-135 77V-79Z M-135 -79L0 5L135 -79 M0 5V155" fill="none" stroke="#57b8c5" stroke-width="1.9" opacity=".62"/>
+<path d="M0 -104L94 -52V51L0 106-94 51V-52Z" fill="url(#metal)" stroke="url(#line)" stroke-width="4"/>
+<path d="M0 -70L63 -35V38L0 75-63 38V-35Z" fill="url(#face)" stroke="#5cebd2" stroke-width="2.5"/>
+<path d="M0 -60L49 -32V17C49 45 17 60 0 69C-17 60-49 45-49 17V-32Z" fill="#133d4d" stroke="#9bfaf0" stroke-width="3.4"/>
+<path d="M-21 4L-3 22L23 -11" fill="none" stroke="#f6ad93" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-84 -53L0 -104L84 -53" fill="none" stroke="#d5fefa" stroke-width="1.7" opacity=".6"/>
+</g>
+<ellipse cx="930" cy="187" rx="172" ry="91" fill="none" stroke="#64f3df" stroke-width="3" opacity=".3"/>
+<circle cx="1102.00" cy="187.00" r="7" fill="#fca084"/><circle cx="758.00" cy="187.00" r="6" fill="#55f9db"/>
+<path d="M710.0 18v347" stroke="#67f0e0" stroke-width="3" opacity=".13"/>
+<rect x="52" y="39" width="11" height="11" rx="2" fill="#f49a7e"/><text x="75" y="49" fill="#9dc2ce" font-family="Arial,DejaVu Sans,sans-serif" font-size="14" font-weight="bold" letter-spacing="1.5">PENETRATION TESTING  /  SECURITY MONITORING</text>
+<text x="51" y="119" fill="#ffffff" font-family="Arial,DejaVu Sans,sans-serif" font-size="43" font-weight="bold" letter-spacing="2">FAHIM BIN</text>
+<text x="51" y="171" fill="#ffffff" font-family="Arial,DejaVu Sans,sans-serif" font-size="43" font-weight="bold" letter-spacing="2">ABDUL AZIZ</text>
+<rect x="53" y="190" width="492" height="3" rx="1.5" fill="url(#line)"/>
+<text x="53" y="227" fill="#70f4dc" font-family="Arial,DejaVu Sans,sans-serif" font-size="24" font-weight="bold" letter-spacing="1">PENTESTER</text>
+<text x="218" y="227" fill="#7c9eb6" font-family="Arial,DejaVu Sans,sans-serif" font-size="22">/</text>
+<text x="238" y="227" fill="#ffad98" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" font-weight="bold">OFFENSIVE SECURITY</text>
+<text x="53" y="264" fill="#d6e5f2" font-family="Arial,DejaVu Sans,sans-serif" font-size="17">Blue Team • SOC • Adversary Emulation • Security Labs</text>
+<rect x="52" y="285" width="538" height="89" rx="10" stroke="#30617b" fill="#10293c"/>
+<rect x="52" y="285" width="4" height="89" rx="2" fill="#6af3d8"/>
+<text x="69" y="309" fill="#75f5dc" font-family="Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="bold" letter-spacing=".45">MASTER'S IN CYBERSECURITY</text>
+<text x="69" y="331" fill="#dcebf4" font-family="Arial,DejaVu Sans,sans-serif" font-size="12.8">Currently pursuing · University of Dhaka, Bangladesh</text>
+<path d="M69 340h500" fill="none" stroke="#315772" stroke-width="1"/>
+<text x="69" y="359" fill="#b6cfdd" font-family="Arial,DejaVu Sans,sans-serif" font-size="12.5">Bachelor of Information Technology · Torrens University Australia</text>
+<text x="1118" y="362" fill="#769cac" font-family="monospace" font-size="11" text-anchor="end">GITHUB.COM/FAHIMBREW</text>
+</svg>
