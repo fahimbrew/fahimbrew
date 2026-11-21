@@ -15,11 +15,13 @@
 
 ## About me
 
-I'm Fahim, an IT graduate with an interest in **penetration testing, web application security, and security operations**. I like testing how a technique works in a lab and then examining the evidence it leaves in Windows and network logs.
+I'm Fahim, a **Pentester and cybersecurity enthusiast** currently pursuing a **Professional Master's in Information & Cyber Security at the University of Dhaka**. I hold a **Bachelor of Information Technology from Torrens University Australia**.
 
-I'm currently pursuing the **Professional Master's in Information & Cyber Security at the University of Dhaka**, building on my **Bachelor of Information Technology from Torrens University Australia**. Before focusing on cybersecurity, I worked in IT support, where I gained experience with networking, Active Directory, Microsoft 365, and Windows administration.
+My work focuses on **penetration testing, web application security, adversary emulation, and security monitoring**. I enjoy exploring security vulnerabilities, understanding attack techniques, and investigating how suspicious activities appear in system and network logs.
 
-My penetration-testing and detection experience is primarily through **authorized labs and academic exercises**. I use this profile to share the work, commands, findings, and lessons I can actually demonstrate.
+I have hands-on experience with **Burp Suite, Nmap, Metasploit, Kali Linux, Splunk, Wazuh, and Sysmon** through authorized security labs and academic projects. My previous experience in IT support also gave me a practical foundation in **networking, Active Directory, Microsoft 365, and Windows administration**.
+
+I use GitHub to document my security labs, testing methodologies, detection experiments, and technical findings.
 
 ## Education
 
